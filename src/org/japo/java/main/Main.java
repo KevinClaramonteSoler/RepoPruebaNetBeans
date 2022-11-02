@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 package org.japo.java.main;
-       
+
 /**
  *
- * @author  Kevin
+ * @author Kevin
  */
 public class Main {
+
     public static void main(String[] args) {
-        //System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
     }
- 
 }
